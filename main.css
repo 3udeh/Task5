@@ -1,0 +1,20 @@
+h1 {
+
+    color: #502c2c;
+    text-align: center;
+  }
+
+  ul#productList {
+    max-width: 500px;
+    font-size: x-large;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    list-style-type: none;
+    color: #502c2c;
+  }
+  body{
+    background-color: rgb(20, 20, 20);
+
+
+  }
